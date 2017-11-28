@@ -1,0 +1,3 @@
+<button type="primary" bindtap="getToken">申请令牌</button>
+<button type="primary" bindtap="">申请super令牌</button>
+<button type='warn' bindtap="pay">支付</button>
