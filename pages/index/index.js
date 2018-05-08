@@ -1,5 +1,5 @@
 var app = getApp()
-var baseUrl = 'http://z.cn/api/v1';
+var baseUrl = 'http://z.cn/api/v1122';
 
 Page({
 
